@@ -1,2 +1,2 @@
 
-#### 一个简单的下载shimo文档的脚本，学习用。
+#### A simple download shimo document script, learn to use.
